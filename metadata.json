@@ -1,0 +1,6 @@
+{
+  "name": "StudentStay - Vaal Student Accommodation",
+  "description": "Find accredited and verified student accommodation near VUT, NWU Vaal, and Sedibeng TVET. Compare prices in Rand, campus walking distance, Wi-Fi, and contact landlords directly on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
